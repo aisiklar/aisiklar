@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aisiklar, experienced systems engineer, working in tech for 20+ years.
-- 👀 I’m interested in Blockchain, Machine Learning and Python / Coding 
-- 💞️ I’m looking to collaborate on open source projects, mainly on Blockchain, Machine Learning and anything comprising Python.
+- 👀 I’m interested in Blockchain, Machine Learning and Python or Development in general...
+- 💞️ I’m looking to collaborate on open source projects, mainly on Blockchain and Machine Learning.
 - 📫 How to reach me https://www.linkedin.com/in/alptekinisiklar/ 
 
 <!---

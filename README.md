@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aisiklar, experienced systems design engineer, working in tech for 21+ years.
-- 👀 I’m interested in Blockchain (developing smart contracts and dApps), Java / Spring Boot, Python, Machine Learning...
-- 💞️ I’m looking to collaborate on open source projects, mainly on Blockchain and Java.
+- 👀 I’m interested in Blockchain and developing smart contracts and dApps in Solidity, JavaScript, NodeJS.
+- 💞️ I’m looking to collaborate on open source projects, mainly on Blockchain (Solidity) and Javascript / NodeJS.
 - 📫 How to reach me https://www.linkedin.com/in/alptekinisiklar/ 
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

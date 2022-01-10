@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aisiklar, experienced systems design engineer, working in tech for 21+ years.
+- 👋 Hi, I’m @aisiklar. I am building, developing things.
 - 👀 I’m interested in Blockchain and developing smart contracts and dApps in Solidity, JavaScript, NodeJS.
 - 💞️ I’m looking to collaborate on open source projects, mainly on Blockchain (Solidity) and Javascript / NodeJS.
 - 📫 How to reach me https://www.linkedin.com/in/alptekinisiklar/ 

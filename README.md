@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aisiklar. I am building, developing things.
 - 👀 I’m interested in Blockchain / web3 development. Tech Stack: solidity, javascript / reactjs, truffle, web3js
-- 💞️ I’m looking to collaborate on open source projects, mainly on Blockchain (Solidity) and Javascript / NodeJS.
+- 💞️ I’m looking to collaborate on open source blockchain / web3 projects.
 - 📫 How to reach me https://www.linkedin.com/in/alptekinisiklar/ 
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

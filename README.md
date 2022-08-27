@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aisiklar. I am building, developing things.
-- 👀 I’m interested in Web (web apps, PWA) and Blockchain / web3 / DeFi / dApp development. Tech Stack: javascript / reactjs, solidity, HTML, CSS, Python...
+- 👋 Hi, I’m alptekin.
+- 👀 I’m interested in Web (web apps, PWA) and Blockchain / web3 / DeFi / dApp development. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me https://www.linkedin.com/in/alptekinisiklar/ 
 <!---

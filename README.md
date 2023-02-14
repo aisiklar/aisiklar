@@ -1,5 +1,5 @@
 - 👋 Hi, I’m alptekin.
-- 👀 I’m interested in Web (web apps, PWA) and Blockchain / web3 / DeFi / dApp development. 
+- 👀 I’m interested in Web development, main focus on front-end dev, with JavaScript, Vue.js, React.js
 - 💞️ I’m looking to collaborate on open source projects (especially with javascript, react.js, vue.js).
 - 📫 How to reach me https://www.linkedin.com/in/alptekinisiklar/ 
 <!---

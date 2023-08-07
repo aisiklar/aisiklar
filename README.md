@@ -1,6 +1,13 @@
-- 👋 Hi, I’m alptekin.
-- 👀 I’m ambitious about developing / coding, particularly Web development. Nowadays working intensely with javascript, next.js, react.js, node.js and express.js. Additionally, I have some familiarity and experience with vue.js, electron.js and python, too.
-- 💞️ I’m looking to collaborate on open source projects (preferably with/in javascript, next.js, react.js, node.js). If you know a good OSS Project for me to contribute to, reach out to me... I am already interested :)
+- 👋 Hi, I’m alptekin. I am a web developer, upon lots of other things.
+
+- 💞️ I’m ambitious about developing web apps.
+
+- 💞️ Interested in: Open source projects. I am already studying a nice project and hope to start contributing soon. Also I am building my own (open source) library for Next.js/React.js ecosystem. 
+
+- Primary Tech Stack: Next.js, React.js, TypeScript, JavaScript, Keycloak, Node-RED, InfluxDB.
+
+- Additionally, I have some familiarity and experience with Node.js and Express.js, Vue.js, Electron.js and Python, too.
+
 - 📫 How to reach me: https://m-alptekin.com OR https://www.linkedin.com/in/alptekinisiklar/ Let's connect.
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

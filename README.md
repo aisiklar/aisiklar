@@ -4,7 +4,7 @@
 
 - 💞️ Interested in: Open source projects. I am already studying a nice project and hope to start contributing soon. Also I am building my own (open source) library for Next.js/React.js ecosystem. 
 
-- Primary Tech Stack: Next.js, React.js, TypeScript, JavaScript, TailwindCSS, Keycloak, Node-RED, InfluxDB.
+- I am working mostly with Next.js, React.js, TypeScript, JavaScript, Node.js (and Express.js), TailwindCSS, Keycloak, Node-RED, InfluxDB.
 
 - Additionally, I have some familiarity and experience with Node.js and Express.js, Vue.js, Electron.js and Python, too.
 

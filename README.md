@@ -6,7 +6,7 @@
 
 - I am working mostly with Next.js, React.js, TypeScript, JavaScript, Node.js (and Express.js), TailwindCSS, Keycloak, Node-RED, InfluxDB.
 
-- Additionally, I have some familiarity and experience with Node.js and Express.js, Vue.js, Electron.js and Python, too.
+- Additionally, I have some familiarity and experience with Vue.js, Electron.js and Python, too.
 
 - 📫 How to reach me: https://m-alptekin.com OR https://www.linkedin.com/in/alptekinisiklar/ Let's connect.
 <!---

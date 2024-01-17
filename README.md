@@ -1,8 +1,8 @@
-- 👋 Hi, I’m alptekin. I am a web developer, upon lots of other things.
+- 👋 Hi, I’m alptekin. I am a software / web developer (front-end focused, full-stack), upon lots of other things.
 
 - 💞️ I’m ambitious about developing web apps.
 
-- 💞️ Interested in: Open source projects. I am already studying a nice project and hope to start contributing soon. Also I am building my own (open source) library for Next.js/React.js ecosystem. 
+- 💞️ Interested in: Open source projects, web performance, productivity and many other stuff...
 
 - I am working mostly with Next.js, React.js, TypeScript, JavaScript, Node.js (and Express.js), TailwindCSS, Keycloak, Node-RED, InfluxDB.
 

@@ -8,7 +8,7 @@
 
 - Additionally, I have some familiarity and experience with Vue.js, Electron.js and Python, too.
 
-- 📫 How to reach me: https://m-alptekin.com OR https://www.linkedin.com/in/alptekinisiklar/ Let's connect.
+- 📫 How to reach me: https://www.linkedin.com/in/alptekinisiklar/ Let's connect.
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

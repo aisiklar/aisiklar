@@ -1,8 +1,8 @@
 - 👋 Hi, I’m alptekin. I am a software / web developer (front-end focused, full-stack), upon lots of other things.
 
-- 💞️ I’m ambitious about developing web apps.
+- 💞️ I’m ambitious about developing web apps. Currently working with Vue.js (TypeScript). I have some experience in Next.js and React.js, too. Besides these, have previously worked with Node-RED and KeyCloak.
 
-- 💞️ Interested in: Open source projects, web performance, productivity and many other stuff...
+- 💞️ Interested in: AI within Web Applications, Open Source Software Projects, (Web) Performance, Productivity and many other stuff...
 
 - 📫 How to reach me: https://www.linkedin.com/in/alptekinisiklar/ Let's connect.
   

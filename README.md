@@ -1,5 +1,5 @@
-- 👋 Hi, I’m alptekin. I am a software / web developer (front-end focused, full-stack), upon lots of other things.
-
+- 👋 Hi, I’m alptekin. I am a software / web developer (front-end focused, full-stack), a career-changer and a lifetime learner.
+  
 - 💞️ I’m ambitious about developing web apps.
 
 - 💞️ Interested in: AI within Web Applications, Open Source Software Projects, (Web) Performance, Productivity and many other stuff...

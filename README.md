@@ -1,6 +1,4 @@
- Hello visitor,
- 
-This is alptekin. 
+Hello :)
 
 I am a software / web developer (front-end focused, full-stack), a career-changer and a lifetime learner.
 

@@ -1,10 +1,22 @@
-- 👋 Hi, I’m alptekin. I am a software / web developer (front-end focused, full-stack), a career-changer and a lifetime learner.
+ Hello visitor,
+ 
+This is alptekin. 
+
+I am a software / web developer (front-end focused, full-stack), a career-changer and a lifetime learner.
+
+I am ambitious about developing software, especially web applications. 
+
+Additionally I am interested in open source projects, AI within Web Apps, web performance and productivity.
+
+Outside software, I also love music and I am learning to play flute...
   
-- 💞️ I’m ambitious about developing web apps.
+Please check my website, https://www.linkedin.com/in/alptekinisiklar. 
 
-- 💞️ Interested in: AI within Web Applications, Open Source Software Projects, (Web) Performance, Productivity and many other stuff...
+Unfortunately, it is still being updated, hope to publish the new version soon, if i can find some time to work on it :)
 
-- 📫 How to reach me: https://www.linkedin.com/in/alptekinisiklar/ Let's connect.
+See you around, feel free to contact me for anything related with development.
+
+alptekin I.
   
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

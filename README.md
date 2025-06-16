@@ -5,11 +5,6 @@ I am a software / web developer (front-end focused, full-stack), a career-change
 I am ambitious about developing software, especially web applications. 
 
 Additionally I am interested in open source projects, AI within Web Apps, web performance and productivity.
-  
-Please check my website, https://www.linkedin.com/in/alptekinisiklar. 
-
-Unfortunately, it is still being updated, hope to publish the new version soon, if i can find some time to work on it :)
-
 
 Other than software development, I love music and I am learning to play flute.
 

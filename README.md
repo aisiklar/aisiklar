@@ -10,7 +10,12 @@ Feel free to contact me in case you think we have common interests.
 
 alptekin I.
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aisiklar" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aisiklar&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

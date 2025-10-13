@@ -10,7 +10,7 @@ Feel free to contact me in case you think we have common interests.
 
 alptekin I.
 
-[![Alptekin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aisiklar)](https://github.com/aisiklar/github-readme-stats)
+
 
 <!---
 aisiklar/aisiklar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,9 @@ Hello :)
 
 I am a software / web developer (front-end focused, full-stack), a career-changer and a lifetime learner.
 
-I am ambitious about software / web development and interested in Open Source and Web Performance.
+I am ambitious about software / web development and interested in Web Performance and Open Source.
 
-In addition to software development, I love music and I am studying / playing flute.
+In addition to software development, I love music and play flute (amateurishly).
 
 
 alptekin I.
